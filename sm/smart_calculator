@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T15:22:02.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XdIfLdrnE9aSDsuUCrjX" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-29T15:22:39.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eO5ZvYx5e7pS8bVN8U4o" version="20.5.3" type="github" pages="2">
   <diagram id="IdkYHDxnLUXvdniKQxcu" name="Страница 1">
-    <mxGraphModel dx="3756" dy="2631" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1369" math="0" shadow="0">
+    <mxGraphModel dx="4894" dy="3172" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1369" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OTPqn4gQj1EC5IylB9C_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=none;strokeWidth=2.5;fontSize=18;fontColor=#000000;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="-484.25" width="2488" height="1312" as="geometry" />
+        </mxCell>
         <mxCell id="2sLPUXvBfT2Ywm0vNoBj-246" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=0;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="-244" width="232" height="368" as="geometry" />
         </mxCell>
